@@ -2,3 +2,4 @@
 Hello Git
 Hello Local pc
 Line conflict
+Git conflict 2
